@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/alanaguiar01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanaguiar01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaguiar01&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
@@ -23,5 +23,8 @@
   <a href="https://www.linkedin.com/in/alan-martins-48a58a1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  
+ <h3><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/alanaguiar01/count.svg"/>
+</p>
   
